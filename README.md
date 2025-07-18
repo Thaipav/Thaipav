@@ -1,6 +1,6 @@
 #### Olá!! Eu sou a Thainá
 #### Sou estudante de Tecnologia da Informação na FAETERJ. Criei este espaço para compartilhar meus projetos, aprendizados e toda a minha jornada nesse universo incrível da tecnologia. Estou sempre em busca de novos desafios e conhecimentos, com foco em crescer como profissional e contribuir com soluções criativas e eficientes. 
-
+##
 <div align="center">
 <a href="https://github.com/seu-usuario">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaipav&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
