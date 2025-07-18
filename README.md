@@ -1,5 +1,5 @@
 #### Olá!! Eu sou a Thainá
-#### Sou estudante de Tecnologia da Informação na FAETERJ. Criei este espaço para compartilhar meus projetos, aprendizados e toda a minha jornada nesse universo incrível da tecnologia. Estou sempre em busca de novos desafios e conhecimentos, com foco em crescer como profissional e contribuir com soluções criativas e eficientes. 
+#### Criei este espaço para compartilhar meus projetos, aprendizados e toda a minha jornada nesse universo incrível da tecnologia. Estou sempre em busca de novos desafios e conhecimentos, com foco em crescer como profissional e contribuir com soluções criativas e eficientes. 
 ##
 <div align="center">
 <a href="https://github.com/seu-usuario">
