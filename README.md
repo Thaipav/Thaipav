@@ -2,9 +2,9 @@
  Criei este espaço para compartilhar meus projetos, aprendizados e toda a minha jornada nesse universo incrível da tecnologia. Estou sempre em busca de novos desafios e conhecimentos, com foco em crescer como profissional e contribuir com soluções criativas e eficientes. 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
 </p>
 
 ##
