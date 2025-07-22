@@ -10,7 +10,8 @@
 ##
 [![Gmail](https://img.shields.io/badge/GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&to=pavonethaina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thain%C3%A1-pavone-23584322a)
-[![CURRICULO](https://img.shields.io/badge/CURRICULO-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1YkFD6eeUOi-BtWptkkZLa5CB-zEQWpIS/view?usp=sharing)
+[![CURRICULO](https://img.shields.io/badge/CURRICULO-GOOGLE--DOCS-blue?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/1vjW6RrzUgsyPZnR5gYvSpwWlwZp9juayzNqVg8KLUC4/view)
+
 
 
 
