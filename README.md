@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Thainá 
  Criei este espaço para compartilhar meus projetos, aprendizados e toda a minha jornada nesse universo incrível da tecnologia. Estou sempre em busca de novos desafios e conhecimentos, com foco em crescer como profissional e contribuir com soluções criativas e eficientes. 
 
-#### Linguagens que estudo:
+#### Tecnologias que estou estudando:
 
 <p align="left">
  <p align="left">
