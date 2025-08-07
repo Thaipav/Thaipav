@@ -7,8 +7,8 @@
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
 </p>
 
 </p>
