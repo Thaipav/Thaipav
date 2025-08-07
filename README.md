@@ -2,9 +2,15 @@
  Criei este espaço para compartilhar meus projetos, aprendizados e toda a minha jornada nesse universo incrível da tecnologia. Estou sempre em busca de novos desafios e conhecimentos, com foco em crescer como profissional e contribuir com soluções criativas e eficientes. 
 
 <p align="left">
+ <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+</p>
+
 </p>
 
 ##
