@@ -7,11 +7,11 @@
  <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=cpp,java,cs,python" height="40" alt="POO" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
 </p>
 
 </p>
