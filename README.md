@@ -1,8 +1,6 @@
 ### Olá!! Eu sou a Thainá, estudante de Tecnologia da Informação e aspirante a desenvolvedora fullstack. Criei este espaço para compartilhar minha evolução e minhas experiências no desenvolvimento.
 ##
 
-#### Tecnologias que estou estudando:
-
 <p align="left">
  <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
