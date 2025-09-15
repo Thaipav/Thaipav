@@ -6,7 +6,7 @@
 <p align="left">
  <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
