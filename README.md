@@ -1,5 +1,5 @@
-### Olá!! Eu sou a Thainá 
- Criei este espaço para compartilhar meus projetos, aprendizados e toda a minha jornada nesse universo incrível da tecnologia. Estou sempre em busca de novos desafios e conhecimentos, com foco em crescer como profissional e contribuir com soluções criativas e eficientes. 
+### Olá!! Eu sou a Thainá, sou estudante de Tecnologia da Informação, me dedico para ser uma desenvolvedora fullstack, criei este espaço para compartilhar minha evoluçãoe compartilhar meu desenvolvimento.
+##
 
 #### Tecnologias que estou estudando:
 
