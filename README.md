@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Thainá, sou estudante de Tecnologia da Informação, me dedico para ser uma desenvolvedora fullstack, criei este espaço para compartilhar minha evoluçãoe compartilhar meu desenvolvimento.
+### Olá!! Eu sou a Thainá, estudante de Tecnologia da Informação e aspirante a desenvolvedora fullstack. Criei este espaço para compartilhar minha evolução e minhas experiências no desenvolvimento.
 ##
 
 #### Tecnologias que estou estudando:
