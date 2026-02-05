@@ -2,9 +2,6 @@
 
 ##
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaipav&show_icons=true&theme=default)
-
-
 <p align="left">
  <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
