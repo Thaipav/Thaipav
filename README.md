@@ -11,7 +11,9 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-
+ <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
 </p>
 
 </p>
