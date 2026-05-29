@@ -2,8 +2,8 @@
 
 ### Áreas de Interesse 
 
-- Desenvolvimento Full Stack: Construção de aplicações web completas, integração de APIs e gerenciamento de bancos de dados.
-- Redes e Infraestrutura: Arquitetura de redes, protocolos de comunicação, conectividade e suporte a servidores/hospedagens.
+### - Desenvolvimento Full Stack: Construção de aplicações web completas, integração de APIs e gerenciamento de bancos de dados.
+### - Redes e Infraestrutura: Arquitetura de redes, protocolos de comunicação, conectividade e suporte a servidores/hospedagens.
 
 ##
 
