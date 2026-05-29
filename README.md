@@ -1,4 +1,4 @@
-### Oi
+### Oi 😺
 Meu nome é Thainá, sou estudante de Tecnologia da Informação na FAETERJ e estou construindo minha trajetória na área de TI, com motivação para aprender, crescer e contribuir de forma significativa.
 
 ### Áreas de Interesse 
