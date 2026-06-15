@@ -13,19 +13,6 @@ Meu nome é Thainá, sou estudante de Tecnologia da Informação na FAETERJ e es
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaipav&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
-      <p align="left">
-       <p align="left">
-        <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
-        <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-        <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-        <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-       <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-       <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-      </p>
-
   ##
   
   <div align="center"> 
