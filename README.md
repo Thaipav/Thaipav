@@ -8,6 +8,13 @@ Meu nome é Thainá, sou estudante de Tecnologia da Informação na FAETERJ e es
 
 ##
 
+</p>
+<div align="center">
+  <a href="https://github.com/Thaipav">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaipav&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaipav&layout=compact&langs_count=7&theme=buefy"/>
+</div>
+
 <p align="left">
  <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
@@ -20,13 +27,6 @@ Meu nome é Thainá, sou estudante de Tecnologia da Informação na FAETERJ e es
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
 </p>
-
-</p>
-<div align="center">
-  <a href="https://github.com/Thaipav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaipav&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaipav&layout=compact&langs_count=7&theme=buefy"/>
-</div>
 
   ##
   
