@@ -22,22 +22,16 @@ Meu nome é Thainá, sou estudante de Tecnologia da Informação na FAETERJ e es
 </p>
 
 </p>
-
-[![Currículo](https://img.shields.io/badge/CV-444444?style=for-the-badge&logo=readme&logoColor=pink)](https://docs.google.com/document/d/10wQT4tqO6DV5YuixZUkh30ljlGzUnFYEJop7Xq_pFHg/edit?usp=sharing)
-[![Gmail](https://img.shields.io/badge/GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&to=pavonethaina@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thain%C3%A1-pavone-23584322a)]
-
 <div align="center">
   <a href="https://github.com/Thaipav">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaipav&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaipav&layout=compact&langs_count=7&theme=buefy"/>
 </div>
-<div align="center" style="display: inline_block"><br>
-  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
+
+[![Currículo](https://img.shields.io/badge/CV-444444?style=for-the-badge&logo=readme&logoColor=pink)](https://docs.google.com/document/d/10wQT4tqO6DV5YuixZUkh30ljlGzUnFYEJop7Xq_pFHg/edit?usp=sharing)
+[![Gmail](https://img.shields.io/badge/GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&to=pavonethaina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thain%C3%A1-pavone-23584322a)]
+
   ##
   
   <div align="center"> 
