@@ -6,8 +6,6 @@ Meu nome é Thainá, sou estudante de Tecnologia da Informação na FAETERJ e es
  - Desenvolvimento Full Stack: Construção de aplicações web completas, integração de APIs e gerenciamento de bancos de dados.
  - Redes e Infraestrutura: Arquitetura de redes, protocolos de comunicação, conectividade e suporte a servidores/hospedagens.
 
-##
-
 </p>
 <div align="center">
   <a href="https://github.com/Thaipav">
